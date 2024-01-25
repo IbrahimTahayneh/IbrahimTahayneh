@@ -6,7 +6,7 @@
 - React Native and ReactJS for building robust, scalable applications
 - UI/UX design principles for creating intuitive and user-friendly interfaces
 - State management with Redux and context API
-- RESTful API integration and GraphQL queries
+- RESTful API integration
 - Test-driven development (TDD) for ensuring code reliability
 - Git version control for collaborative and organized development
 
