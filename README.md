@@ -1,6 +1,6 @@
 🚀 Passionate React Native and React Developer 🚀
 
-👋 Hi there! I'm Ibrahim Tahayneh, a dedicated and creative software engineer specializing in React Native and React development. With a solid foundation in front-end technologies, I bring innovative solutions to the world of cross-platform mobile apps and web development.
+👋 Hi there! I'm Ibrahim Tahayna, a dedicated and creative software engineer specializing in React Native and React development. With a solid foundation in front-end technologies, I bring innovative solutions to the world of cross-platform mobile apps and web development.
 
 🛠️ My expertise includes:
 - React Native and ReactJS for building robust, scalable applications
